@@ -32,7 +32,10 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 - __Splash Screen + Assets__
     - [React Native Splash Screen](https://github.com/crazycodeboy/react-native-splash-screen)
 - __Structure__
-
+- __Firebase Notification__
+    - [React Native Firebase](https://github.com/invertase/react-native-firebase)
+- __Countly Bridg SDK__
+    - [React Native Countlu Bridge](https://github.com/Countly/countly-sdk-react-native)
 ---
 
 ## 🚀 Getting Started
