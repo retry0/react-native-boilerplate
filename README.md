@@ -31,7 +31,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
     - [Both manual and automated strategies](documentation/deploy.md)
 - __Splash Screen + Assets__
     - [React Native Splash Screen](https://github.com/crazycodeboy/react-native-splash-screen)
-- __Structure __
+- __Structure__
 
 ---
 
