@@ -35,7 +35,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 - __Firebase Notification__
     - [React Native Firebase](https://github.com/invertase/react-native-firebase)
 - __Countly Bridg SDK__
-    - [React Native Countlu Bridge](https://github.com/Countly/countly-sdk-react-native)
+    - [React Native Countly Bridge](https://github.com/Countly/countly-sdk-react-native)
 ---
 
 ## 🚀 Getting Started
